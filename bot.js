@@ -1,10 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = ('NzAyOTY0MjM5MTgyMDY5OTUw.XqHyDw.8NWdnVz0VjML2ZJCHSf_o97_wpo');
-
-const cheerio = require('cheerio');
-
 const request = require('request');
 
 const PREFIX = '*';
